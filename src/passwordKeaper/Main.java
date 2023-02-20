@@ -7,8 +7,8 @@ import java.util.Scanner;
 
 public class Main {
 
-    final static String PATH = "/home/kiryl/java_projects/PassKeaper/nodeList.txt"; // put here your path to file, were you want to keep passwords
-    final static String sudo_password = "1205mydr"; // put here your master password
+    final static String PATH = ""; // put here your path to file, were you want to keep passwords
+    final static String sudo_password = ""; // put here your master password
     static boolean workingFlag = true;
     static boolean inProgramFlag = true;
     static List<Node> manifest = new ArrayList<>();
